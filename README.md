@@ -6,7 +6,7 @@ A product landing page designed in Figma and coded in HTML, CSS, and JavaScript,
 [View Figma file](https://www.figma.com/design/DpHbiChKjp5uM2DxPSoEnY/Untitled?node-id=0-1)
 
 ## Live demo
-[View live site](recess-mood-landing-page.html)
+[View live site](https://sonisha7.github.io/recess-mood-landing-page/)
 
 ## Images
 <img width="400" height="400" alt="Home" src="https://github.com/user-attachments/assets/32c4b782-4bf7-4593-b7a1-193a8cd6d0c6" />
