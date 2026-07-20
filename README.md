@@ -3,7 +3,7 @@
 A product landing page designed in Figma and coded in HTML, CSS, and JavaScript, featuring an interactive flavor carousel.
 
 ## Design
-[View Figma file](https://www.figma.com/design/32yLQy9hsLFzwQq0FU5s7d/Untitled?node-id=1-553)
+[View Figma file](https://www.figma.com/design/DpHbiChKjp5uM2DxPSoEnY/Untitled?node-id=0-1)
 
 ## Live demo
 [View live site](https://sonisha7.github.io/recess-mood-landing-page/)
